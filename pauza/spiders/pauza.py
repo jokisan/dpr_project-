@@ -33,15 +33,16 @@ class PauzaSpider(scrapy.Spider):
 
     def parse_restorants(self, response):
         area_url = response.url
-        restoran_urls = Selector(response=response).xpath('//div[@class="index-items"]//strong/a/@href').extract()
-        area = re.search('.*/(.*)', response.url).group(1)
+        restoran_names = Selector(response=response).xpath('//div[@class="index-items"]//strong/a/text()').extract()
 
-        self.area_restorant_mapper[area] = set(restoran_urls)
+        area = re.search('.*/(.*)', response.url).group(1)
+        area = area.split('-')[-1]
+        self.area_restorant_mapper[area] = set(restoran_names)
 
         item = {}
-        for restoran_url in restoran_urls:
-            restoran_name = re.search('.*/(.*)?.*', restoran_url).group(1)
-            item['restoran_name'] = restoran_name
+
+        for restoran_name in restoran_names:
+            item['restoran_name'] = restoran_name.encode('utf-8')
             item['area'] = area
 
             for city, area_urls in self.city_area_mapper.items():
