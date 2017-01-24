@@ -32,7 +32,6 @@ class PauzaSpider(scrapy.Spider):
         for city_area_urls in self.city_area_mapper.values():
             for area_url in city_area_urls:
                 yield scrapy.Request(area_url, callback=self.parse_restorants)
-                break
 
     def parse_restorants(self, response):
         area_url = response.url
