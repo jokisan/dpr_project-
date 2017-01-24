@@ -2,12 +2,14 @@ import scrapy
 from scrapy.selector import Selector
 #from items import PauzaItem
 import re
-
+from time import sleep
+from selenium import webdriver
 
 class PauzaSpider(scrapy.Spider):
 
     name = "pauza"
     start_urls = ['http://www.pauza.hr/sitemap.xml']
+    driver = webdriver.Chrome('/usr/bin/chromedriver')
 
     city_area_mapper = {
         'zagreb': set(),
@@ -30,6 +32,7 @@ class PauzaSpider(scrapy.Spider):
         for city_area_urls in self.city_area_mapper.values():
             for area_url in city_area_urls:
                 yield scrapy.Request(area_url, callback=self.parse_restorants)
+                break
 
     def parse_restorants(self, response):
         area_url = response.url
@@ -44,9 +47,27 @@ class PauzaSpider(scrapy.Spider):
         for restoran_name in restoran_names:
             item['restoran_name'] = restoran_name.encode('utf-8')
             item['area'] = area
+            item['phone_number'] = self.get_phone_number(restoran_name)
 
             for city, area_urls in self.city_area_mapper.items():
                 if area_url in area_urls:
                     item['city'] = city
 
             print item
+
+    def get_phone_number(self, restoran_name):
+        # driver = webdriver.Chrome('/usr/bin/chromedriver')
+        url = 'http://www.google.com/search?q=' + restoran_name
+        self.driver.get(url)
+        sleep(5)
+        content = self.driver.page_source
+
+        spans_text = Selector(text=content).xpath('//span/text()').extract()
+
+        phone_numbers = [re.search('([0-9]+ [0-9]+ [0-9]+)', phone_numbers).group(1)
+                        for phone_numbers in spans_text
+                        if re.search('([0-9]+ [0-9]+ [0-9]+)', phone_numbers) is not None]
+
+        phone_numbers = set(phone_numbers)
+
+        return phone_numbers
