@@ -42,11 +42,16 @@ class PauzaSpider(scrapy.Spider):
         self.area_restorant_mapper[area] = set(restoran_names)
 
         item = {}
+        cache = {}
 
         for restoran_name in restoran_names:
             item['restoran_name'] = restoran_name.encode('utf-8')
             item['area'] = area
-            item['phone_number'] = self.get_phone_number(restoran_name)
+            if restoran_name in cache:
+                item['phone_number'] = cache.get(restoran_name)
+            else:
+                item['phone_number'] = self.get_phone_number(restoran_name)
+                cache[restoran_name] = item.get('phone_number')
 
             for city, area_urls in self.city_area_mapper.items():
                 if area_url in area_urls:

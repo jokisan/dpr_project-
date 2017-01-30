@@ -1,0 +1,409 @@
+{'phone_number': set([u'051 333 353']), 'city': 'rijeka', 'area': 'pehlin', 'restoran_name': 'Pizzeria Van Gogh'}
+{'phone_number': set([u'051 333 353']), 'city': 'rijeka', 'area': 'krimeja', 'restoran_name': 'Pizzeria Van Gogh'}
+{'phone_number': set([u'051 459 909']), 'city': 'rijeka', 'area': 'skoljic', 'restoran_name': 'Pizza Place Destino'}
+{'phone_number': set([u'051 333 353']), 'city': 'rijeka', 'area': 'skoljic', 'restoran_name': 'Pizzeria Van Gogh'}
+{'phone_number': set([]), 'city': 'rijeka', 'area': 'skoljic', 'restoran_name': 'Fast food Piccolo'}
+{'phone_number': set([u'051 333 353']), 'city': 'rijeka', 'area': 'drenova', 'restoran_name': 'Pizzeria Van Gogh'}
+{'phone_number': set([u'0800 25 91']), 'city': 'rijeka', 'area': 'drenova', 'restoran_name': 'Brum Brum'}
+{'phone_number': set([u'051 514 472', u'385 51 514']), 'city': 'rijeka', 'area': 'podmurvice', 'restoran_name': 'Pizzeria Do It'}
+{'phone_number': set([u'0800 25 91']), 'city': 'rijeka', 'area': 'podmurvice', 'restoran_name': 'Brum Brum'}
+{'phone_number': set([u'051 333 353']), 'city': 'rijeka', 'area': 'podmurvice', 'restoran_name': 'Pizzeria Van Gogh'}
+{'phone_number': set([u'051 459 909']), 'city': 'rijeka', 'area': 'pulac', 'restoran_name': 'Pizza Place Destino'}
+{'phone_number': set([u'051 514 472', u'385 51 514']), 'city': 'rijeka', 'area': 'pulac', 'restoran_name': 'Pizzeria Do It'}
+{'phone_number': set([u'051 333 353']), 'city': 'rijeka', 'area': 'pulac', 'restoran_name': 'Pizzeria Van Gogh'}
+{'phone_number': set([u'051 514 472', u'385 51 514']), 'city': 'rijeka', 'area': 'brascine', 'restoran_name': 'Pizzeria Do It'}
+{'phone_number': set([u'051 333 353']), 'city': 'rijeka', 'area': 'brascine', 'restoran_name': 'Pizzeria Van Gogh'}
+{'phone_number': set([u'051 333 353']), 'city': 'rijeka', 'area': 'viskovo', 'restoran_name': 'Pizzeria Van Gogh'}
+{'phone_number': set([]), 'city': 'rijeka', 'area': 'delta', 'restoran_name': 'Fast food Piccolo'}
+{'phone_number': set([u'051 333 353']), 'city': 'rijeka', 'area': 'delta', 'restoran_name': 'Pizzeria Van Gogh'}
+{'phone_number': set([u'051 453 252', u'099 884 5435', u'385 21 412', u'099 884 54']), 'city': 'rijeka', 'area': 'delta', 'restoran_name': 'Fast Food Tweety'}
+{'phone_number': set([u'051 514 472', u'385 51 514']), 'city': 'rijeka', 'area': 'potok', 'restoran_name': 'Pizzeria Do It'}
+{'phone_number': set([u'051 333 353']), 'city': 'rijeka', 'area': 'potok', 'restoran_name': 'Pizzeria Van Gogh'}
+{'phone_number': set([]), 'city': 'rijeka', 'area': 'potok', 'restoran_name': 'Fast food Piccolo'}
+{'phone_number': set([u'051 459 909']), 'city': 'rijeka', 'area': 'potok', 'restoran_name': 'Pizza Place Destino'}
+{'phone_number': set([u'051 224 531']), 'city': 'rijeka', 'area': 'potok', 'restoran_name': 'Cheers pub'}
+{'phone_number': set([u'099 407 3274', u'01 2323 377', u'099 576 0334']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Libertas'}
+{'phone_number': set([u'61 30 300', u'042 212 017']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Pizzeria Domenico'}
+{'phone_number': set([u'01 2452 834']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Favola Catering'}
+{'phone_number': set([u'01 5560 979']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Pizza-Boo'}
+{'phone_number': set([u'01 6132 150']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Il Mondo'}
+{'phone_number': set([u'01 6637 644']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Bistro Mon Ami'}
+{'phone_number': set([u'01 6199 144']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Pizza Slavonija'}
+{'phone_number': set([u'61 18 831']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Grill House Azzuro'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Pe\xc4\x8denjara Tigri\xc4\x87 RTL'}
+{'phone_number': set([u'01 6111 309']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Catering An\xc4\x91eo'}
+{'phone_number': set([u'34 936 75', u'56 2 2207']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Pizzeria Mezzanotte'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Catering Milenium'}
+{'phone_number': set([u'01 3025 888']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Mrak Grill'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Dalmistra'}
+{'phone_number': set([u'091 762 5821']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Brko i Brko'}
+{'phone_number': set([u'091 574 0865']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Food Harmony'}
+{'phone_number': set([u'097 777 95', u'097 777 9567']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Vo\xc4\x87arna Mali vrt'}
+{'phone_number': set([u'01 2352 775']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Gableci i to'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([u'01 6182 535', u'61 82 535']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Cydonia'}
+{'phone_number': set([u'098 777 577']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Vege fino za sve'}
+{'phone_number': set([u'01 5619 990']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Zlatna Bula'}
+{'phone_number': set([u'040 365 177', u'1 55 89', u'01 5589 773']), 'city': 'zagreb', 'area': 'kamenarka', 'restoran_name': 'Pyrus'}
+{'phone_number': set([u'34 936 75', u'56 2 2207']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Pizzeria Mezzanotte'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Kum'}
+{'phone_number': set([u'01 3025 888']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Mrak Grill'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Pe\xc4\x8denjara Tigri\xc4\x87 RTL'}
+{'phone_number': set([u'01 6199 144']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Pizza Slavonija'}
+{'phone_number': set([u'01 6170 864']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Pizzeria Strossmayer'}
+{'phone_number': set([u'01 5620 335']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Kung Food'}
+{'phone_number': set([u'01 6132 150']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Il Mondo'}
+{'phone_number': set([u'099 407 3274', u'01 2323 377', u'099 576 0334']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Libertas'}
+{'phone_number': set([u'01 3890 723']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Marinero Grill Pre\xc4\x8dko'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Pizzeria Stross'}
+{'phone_number': set([u'01 6637 644']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Bistro Mon Ami'}
+{'phone_number': set([u'01 6142 659']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Paesano Ristorante Pizzeria'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Catering Milenium'}
+{'phone_number': set([u'61 30 300', u'042 212 017']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Pizzeria Domenico'}
+{'phone_number': set([u'01 5560 979']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Pizza-Boo'}
+{'phone_number': set([u'2352 775 095', u'01 2352 775']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Gableci i to 2'}
+{'phone_number': set([u'091 574 0865']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Food Harmony'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Dalmistra'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Catering Rotor'}
+{'phone_number': set([u'01 2352 775']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Gableci i to'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([u'01 5619 990']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Zlatna Bula'}
+{'phone_number': set([u'097 777 95', u'097 777 9567']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Vo\xc4\x87arna Mali vrt'}
+{'phone_number': set([u'098 777 577']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Vege fino za sve'}
+{'phone_number': set([u'01 6182 535', u'61 82 535']), 'city': 'zagreb', 'area': 'dugave', 'restoran_name': 'Cydonia'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Catering Milenium'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Sombrero - Meksikanac'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Pizzeria Stross'}
+{'phone_number': set([u'099 409 3434']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Pizzeria Astro'}
+{'phone_number': set([u'01 5560 107']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Kebab Maksimir'}
+{'phone_number': set([u'01 6387 802', u'385 1 6387']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Bon Appetit Catering'}
+{'phone_number': set([u'01 2408 111']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Restoran Kuhinja'}
+{'phone_number': set([u'01 8890 719', u'88 90 719']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Pizzeria Poma'}
+{'phone_number': set([u'385 91 461']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Grill Bistro Tomislav'}
+{'phone_number': set([u'01 6199 144']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Pizza Slavonija'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Kum'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'King Kebab'}
+{'phone_number': set([u'01 5560 979']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Pizza-Boo'}
+{'phone_number': set([u'01 3025 888']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Mrak Grill'}
+{'phone_number': set([u'01 4618 052']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Fast Food Filip'}
+{'phone_number': set([u'01 6170 864']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Pizzeria Strossmayer'}
+{'phone_number': set([u'61 18 831']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Grill House Azzuro'}
+{'phone_number': set([u'385 51 324']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Wok by Matija'}
+{'phone_number': set([u'099 407 3274', u'01 2323 377', u'099 576 0334']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Libertas'}
+{'phone_number': set([u'01 3890 723']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Marinero Grill Pre\xc4\x8dko'}
+{'phone_number': set([u'01 6132 150']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Il Mondo'}
+{'phone_number': set([u'01 2452 834']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Favola Catering'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Super Kebab'}
+{'phone_number': set([u'01 3704 787']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Pizzeria Zagabria'}
+{'phone_number': set([u'01 5620 335']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Kung Food'}
+{'phone_number': set([u'61 30 300', u'042 212 017']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Pizzeria Domenico'}
+{'phone_number': set([u'040 365 177', u'1 55 89', u'01 5589 773']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Pyrus'}
+{'phone_number': set([u'091 762 5821']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Brko i Brko'}
+{'phone_number': set([u'01 3095 555']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Pizzeria Zlatna kuna'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Siget Grill'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([u'098 777 577']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Vege fino za sve'}
+{'phone_number': set([u'01 5619 990']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Zlatna Bula'}
+{'phone_number': set([u'01 4837 787']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Bistro Kaptol'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Simple Green'}
+{'phone_number': set([u'01 6182 535', u'61 82 535']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Cydonia'}
+{'phone_number': set([u'01 6182 230']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Trattoria Fretta Gusto'}
+{'phone_number': set([u'2352 775 095', u'01 2352 775']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Gableci i to 2'}
+{'phone_number': set([u'097 777 95', u'097 777 9567']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Vo\xc4\x87arna Mali vrt'}
+{'phone_number': set([u'01 2352 775']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Gableci i to'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Vo\xc4\x87arna Ceker'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'GTi'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Dalmistra'}
+{'phone_number': set([u'091 574 0865']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Food Harmony'}
+{'phone_number': set([u'01 6192 178']), 'city': 'zagreb', 'area': 'trnje', 'restoran_name': 'Mostovi'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Family Catering'}
+{'phone_number': set([u'01 5560 107']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Kebab Maksimir'}
+{'phone_number': set([u'01 4618 052']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Fast Food Filip'}
+{'phone_number': set([u'385 91 461']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Grill Bistro Tomislav'}
+{'phone_number': set([u'099 409 3434']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Pizzeria Astro'}
+{'phone_number': set([u'01 3095 555']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Pizzeria Zlatna kuna'}
+{'phone_number': set([u'01 29 11', u'01 2911 047']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Side Bar Pizzeria'}
+{'phone_number': set([u'01 2452 834']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Favola Catering'}
+{'phone_number': set([u'01 3456 555']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Zagi Pizzeria & Grill'}
+{'phone_number': set([u'01 3456 555']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Zagy Pizza & Sandwich Bar'}
+{'phone_number': set([u'234 34 34', u'01 2343 434']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Pizzeria Tomato - Bukovac'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Bistro To-Mi'}
+{'phone_number': set([u'01 5620 335']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Kung Food'}
+{'phone_number': set([u'01 3704 787']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Pizzeria Zagabria'}
+{'phone_number': set([u'01 8890 719', u'88 90 719']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Pizzeria Poma'}
+{'phone_number': set([u'61 30 300', u'042 212 017']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Pizzeria Domenico'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'King Kebab'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Ani-Kebab'}
+{'phone_number': set([u'385 51 324']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Wok by Matija'}
+{'phone_number': set([u'01 4616 649']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'MS Grill'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Sombrero - Meksikanac'}
+{'phone_number': set([u'095 169 6473']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'California Burrito bar'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Kitchen & Grill Plac'}
+{'phone_number': set([u'01 6170 864']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Pizzeria Strossmayer'}
+{'phone_number': set([u'01 6199 144']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Pizza Slavonija'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Catering Milenium'}
+{'phone_number': set([u'099 407 3274', u'01 2323 377', u'099 576 0334']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Libertas'}
+{'phone_number': set([u'01 6387 802', u'385 1 6387']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Bon Appetit Catering'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Kum'}
+{'phone_number': set([u'01 3890 723']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Marinero Grill Pre\xc4\x8dko'}
+{'phone_number': set([u'01 3025 888']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Mrak Grill'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Pizzeria Stross'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'GTi'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Vo\xc4\x87arna Ceker'}
+{'phone_number': set([u'098 777 577']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Vege fino za sve'}
+{'phone_number': set([u'091 762 5821']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Brko i Brko'}
+{'phone_number': set([u'091 574 0865']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Food Harmony'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Pro.Cat. i Gastro'}
+{'phone_number': set([u'040 365 177', u'1 55 89', u'01 5589 773']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Pyrus'}
+{'phone_number': set([u'01 5619 990']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Zlatna Bula'}
+{'phone_number': set([u'01 6192 178']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Mostovi'}
+{'phone_number': set([u'01 2352 775']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Gableci i to'}
+{'phone_number': set([u'01 4837 787']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Bistro Kaptol'}
+{'phone_number': set([u'01 5801 991']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Primitivo'}
+{'phone_number': set([u'01 3090 991', u'385 1 3090']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Selski Kutak'}
+{'phone_number': set([u'2352 775 095', u'01 2352 775']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Gableci i to 2'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([u'097 777 95', u'097 777 9567']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Vo\xc4\x87arna Mali vrt'}
+{'phone_number': set([u'01 4846 922', u'01 4586 089']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': "Franky's Pizza Bar"}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Dalmistra'}
+{'phone_number': set([u'01 6182 535', u'61 82 535']), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Cydonia'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'centar', 'restoran_name': 'Olla2'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'mirosevac', 'restoran_name': 'Family Catering'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'mirosevac', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([u'01 3890 723']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Marinero Grill Pre\xc4\x8dko'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Pe\xc4\x8denjara Tigri\xc4\x87 RTL'}
+{'phone_number': set([u'61 30 300', u'042 212 017']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Pizzeria Domenico'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Kum'}
+{'phone_number': set([u'01 5516 264']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Purger King'}
+{'phone_number': set([u'34 936 75', u'56 2 2207']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Pizzeria Mezzanotte'}
+{'phone_number': set([u'01 5560 107']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Kebab Maksimir'}
+{'phone_number': set([u'01 6637 644']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Bistro Mon Ami'}
+{'phone_number': set([u'01 6132 150']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Il Mondo'}
+{'phone_number': set([u'01 5620 335']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Kung Food'}
+{'phone_number': set([u'385 91 461']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Grill Bistro Tomislav'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Pizzeria Stross'}
+{'phone_number': set([u'01 6111 309']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Catering An\xc4\x91eo'}
+{'phone_number': set([u'01 5619 990']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Zlatna Bula'}
+{'phone_number': set([u'01 4616 649']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'MS Grill'}
+{'phone_number': set([u'099 407 3274', u'01 2323 377', u'099 576 0334']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Libertas'}
+{'phone_number': set([u'01 3025 888']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Mrak Grill'}
+{'phone_number': set([u'01 6142 659']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Paesano Ristorante Pizzeria'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Catering Milenium'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Sombrero - Meksikanac'}
+{'phone_number': set([u'01 5560 979']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Pizza-Boo'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([u'01 6182 535', u'61 82 535']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Cydonia'}
+{'phone_number': set([u'2352 775 095', u'01 2352 775']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Gableci i to 2'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Catering Rotor'}
+{'phone_number': set([u'040 365 177', u'1 55 89', u'01 5589 773']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Pyrus'}
+{'phone_number': set([u'01 6199 144']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Pizza Slavonija'}
+{'phone_number': set([u'098 777 577']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Vege fino za sve'}
+{'phone_number': set([u'097 777 95', u'097 777 9567']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Vo\xc4\x87arna Mali vrt'}
+{'phone_number': set([u'01 2352 775']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Gableci i to'}
+{'phone_number': set([u'091 574 0865']), 'city': 'zagreb', 'area': 'zaprudje', 'restoran_name': 'Food Harmony'}
+{'phone_number': set([u'01 6142 659']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Paesano Ristorante Pizzeria'}
+{'phone_number': set([u'01 5516 264']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Purger King'}
+{'phone_number': set([u'01 6170 864']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Pizzeria Strossmayer'}
+{'phone_number': set([u'01 5560 979']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Pizza-Boo'}
+{'phone_number': set([u'01 6132 150']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Il Mondo'}
+{'phone_number': set([u'385 91 461']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Grill Bistro Tomislav'}
+{'phone_number': set([u'01 3025 888']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Mrak Grill'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Pizzeria Stross'}
+{'phone_number': set([u'01 6111 309']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Catering An\xc4\x91eo'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Catering Milenium'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Pe\xc4\x8denjara Tigri\xc4\x87 RTL'}
+{'phone_number': set([u'099 407 3274', u'01 2323 377', u'099 576 0334']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Libertas'}
+{'phone_number': set([u'01 5619 990']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Zlatna Bula'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Kum'}
+{'phone_number': set([u'01 5620 335']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Kung Food'}
+{'phone_number': set([u'01 4618 052']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Fast Food Filip'}
+{'phone_number': set([u'61 18 831']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Grill House Azzuro'}
+{'phone_number': set([u'34 936 75', u'56 2 2207']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Pizzeria Mezzanotte'}
+{'phone_number': set([u'61 30 300', u'042 212 017']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Pizzeria Domenico'}
+{'phone_number': set([u'091 574 0865']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Food Harmony'}
+{'phone_number': set([u'097 777 95', u'097 777 9567']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Vo\xc4\x87arna Mali vrt'}
+{'phone_number': set([u'01 6637 644']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Bistro Mon Ami'}
+{'phone_number': set([u'091 762 5821']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Brko i Brko'}
+{'phone_number': set([u'01 6182 535', u'61 82 535']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Cydonia'}
+{'phone_number': set([u'098 777 577']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Vege fino za sve'}
+{'phone_number': set([u'2352 775 095', u'01 2352 775']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Gableci i to 2'}
+{'phone_number': set([u'040 365 177', u'1 55 89', u'01 5589 773']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Pyrus'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'sopot', 'restoran_name': 'Dalmistra'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Sombrero - Meksikanac'}
+{'phone_number': set([u'01 4840 619', u'047 421 136']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Pet Plus'}
+{'phone_number': set([u'01 3816 753']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Pizzeria El Mundo'}
+{'phone_number': set([u'01 3095 555']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Pizzeria Zlatna kuna'}
+{'phone_number': set([u'092 341 6447']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Street food Carlito'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Famoso Food'}
+{'phone_number': set([u'01 3456 555']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Zagi Pizzeria & Grill'}
+{'phone_number': set([u'01 6170 864']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Pizzeria Strossmayer'}
+{'phone_number': set([u'534 222 666']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Pizzeria Enigma'}
+{'phone_number': set([u'01 3025 888']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Mrak Grill'}
+{'phone_number': set([u'01 3704 787']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Pizzeria Zagabria'}
+{'phone_number': set([u'01 3456 555']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Zagy Pizza & Sandwich Bar'}
+{'phone_number': set([u'01 3730 373']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Pizzeria S.O.S.'}
+{'phone_number': set([u'01 3890 723']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Marinero Grill Pre\xc4\x8dko'}
+{'phone_number': set([u'01 2922 414']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Pizzeria Amfora'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Simple Green'}
+{'phone_number': set([u'63 10 000', u'01 6646 339']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Catering Rajnglica'}
+{'phone_number': set([u'091 574 0865']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Food Harmony'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Bistro Tanjur\xc4\x8dek'}
+{'phone_number': set([u'097 777 95', u'097 777 9567']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Vo\xc4\x87arna Mali vrt'}
+{'phone_number': set([u'098 777 577']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Vege fino za sve'}
+{'phone_number': set([u'2352 775 095', u'01 2352 775']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Gableci i to 2'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'vrapce', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([u'099 407 3274', u'01 2323 377', u'099 576 0334']), 'city': 'zagreb', 'area': 'kozari', 'restoran_name': 'Libertas'}
+{'phone_number': set([u'01 29 11', u'01 2911 047']), 'city': 'zagreb', 'area': 'kozari', 'restoran_name': 'Side Bar Pizzeria'}
+{'phone_number': set([u'01 2452 834']), 'city': 'zagreb', 'area': 'kozari', 'restoran_name': 'Favola Catering'}
+{'phone_number': set([u'01 5560 107']), 'city': 'zagreb', 'area': 'kozari', 'restoran_name': 'Kebab Maksimir'}
+{'phone_number': set([u'040 365 177', u'1 55 89', u'01 5589 773']), 'city': 'zagreb', 'area': 'kozari', 'restoran_name': 'Pyrus'}
+{'phone_number': set([u'097 777 95', u'097 777 9567']), 'city': 'zagreb', 'area': 'kozari', 'restoran_name': 'Vo\xc4\x87arna Mali vrt'}
+{'phone_number': set([u'091 574 0865']), 'city': 'zagreb', 'area': 'kozari', 'restoran_name': 'Food Harmony'}
+{'phone_number': set([u'01 2352 775']), 'city': 'zagreb', 'area': 'kozari', 'restoran_name': 'Gableci i to'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'kozari', 'restoran_name': 'Restoran Avenija'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'kozari', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([u'01 6182 535', u'61 82 535']), 'city': 'zagreb', 'area': 'kozari', 'restoran_name': 'Cydonia'}
+{'phone_number': set([u'01 2452 834']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Favola Catering'}
+{'phone_number': set([u'385 91 461']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Grill Bistro Tomislav'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Family Catering'}
+{'phone_number': set([u'01 3025 888']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Mrak Grill'}
+{'phone_number': set([u'01 8890 719', u'88 90 719']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Pizzeria Poma'}
+{'phone_number': set([u'01 2303 294']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Pivnica Budweiser'}
+{'phone_number': set([u'01 5560 979']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Pizza-Boo'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Wok by Matija'}
+{'phone_number': set([u'234 34 34', u'01 2343 434']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Pizzeria Tomato - Bukovac'}
+{'phone_number': set([u'099 409 3434']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Pizzeria Astro'}
+{'phone_number': set([u'01 5560 107']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Kebab Maksimir'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'King Kebab'}
+{'phone_number': set([u'01 2408 111']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Restoran Kuhinja'}
+{'phone_number': set([u'01 2917 704']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Pizzeria San Marco'}
+{'phone_number': set([u'098 279 194']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Pizzeria \xc4\x8cuki'}
+{'phone_number': set([u'01 29 11', u'01 2911 047']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Side Bar Pizzeria'}
+{'phone_number': set([u'01 2323 377', u'099 576 0334']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Libertas'}
+{'phone_number': set([u'01 5620 335']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Kung Food'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Pizzeria Stross'}
+{'phone_number': set([u'01 6182 535', u'61 82 535']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Cydonia'}
+{'phone_number': set([u'01 4846 922', u'01 4586 089']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': "Franky's Pizza Bar"}
+{'phone_number': set([u'098 777 577']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Vege fino za sve'}
+{'phone_number': set([u'091 574 0865']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Food Harmony'}
+{'phone_number': set([u'01 6182 230']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Trattoria Fretta Gusto'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Dalmistra'}
+{'phone_number': set([u'01 6192 178']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Mostovi'}
+{'phone_number': set([u'01 2352 775']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Gableci i to'}
+{'phone_number': set([u'091 762 5821']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Brko i Brko'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Vo\xc4\x87arna Ceker'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([u'040 365 177', u'1 55 89', u'01 5589 773']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Pyrus'}
+{'phone_number': set([u'097 777 95', u'097 777 9567']), 'city': 'zagreb', 'area': 'borongaj', 'restoran_name': 'Vo\xc4\x87arna Mali vrt'}
+{'phone_number': set([u'01 29 11', u'01 2911 047']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Side Bar Pizzeria'}
+{'phone_number': set([u'095 169 6473']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'California Burrito bar'}
+{'phone_number': set([u'01 5620 335']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Kung Food'}
+{'phone_number': set([u'01 3025 888']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Mrak Grill'}
+{'phone_number': set([u'01 8890 719', u'88 90 719']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Pizzeria Poma'}
+{'phone_number': set([u'035 441 244']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'King Kebab'}
+{'phone_number': set([u'385 51 324']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Wok by Matija'}
+{'phone_number': set([u'01 5560 107']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Kebab Maksimir'}
+{'phone_number': set([u'01 2408 111']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Restoran Kuhinja'}
+{'phone_number': set([u'01 2917 704']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Pizzeria San Marco'}
+{'phone_number': set([u'01 5619 990']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Zlatna Bula'}
+{'phone_number': set([u'099 409 3434']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Pizzeria Astro'}
+{'phone_number': set([u'01 4618 052']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Fast Food Filip'}
+{'phone_number': set([u'01 2303 294']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Pivnica Budweiser'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Pizzeria Stross'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Family Catering'}
+{'phone_number': set([u'098 279 194']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Pizzeria \xc4\x8cuki'}
+{'phone_number': set([u'01 2316 438', u'01 231 64']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Pizzeria Gentleman'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Kitchen & Grill Plac'}
+{'phone_number': set([u'01 4616 649']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'MS Grill'}
+{'phone_number': set([u'385 91 461']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Grill Bistro Tomislav'}
+{'phone_number': set([u'01 6170 864']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Pizzeria Strossmayer'}
+{'phone_number': set([u'01 2452 834']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Favola Catering'}
+{'phone_number': set([u'040 365 177', u'1 55 89', u'01 5589 773']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Pyrus'}
+{'phone_number': set([u'01 2352 775']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Gableci i to'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Vo\xc4\x87arna Ceker'}
+{'phone_number': set([u'01 6182 535', u'61 82 535']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Cydonia'}
+{'phone_number': set([u'091 574 0865']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Food Harmony'}
+{'phone_number': set([u'01 4837 787']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Bistro Kaptol'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([u'01 6192 178']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Mostovi'}
+{'phone_number': set([u'091 762 5821']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Brko i Brko'}
+{'phone_number': set([u'098 777 577']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Vege fino za sve'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Dalmistra'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'GTi'}
+{'phone_number': set([u'097 777 95', u'097 777 9567']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Vo\xc4\x87arna Mali vrt'}
+{'phone_number': set([u'2352 775 095', u'01 2352 775']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': 'Gableci i to 2'}
+{'phone_number': set([u'01 4846 922', u'01 4586 089']), 'city': 'zagreb', 'area': 'maksimir', 'restoran_name': "Franky's Pizza Bar"}
+{'phone_number': set([u'385 51 324']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Wok by Matija'}
+{'phone_number': set([u'234 34 34', u'01 2343 434']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Pizzeria Tomato - Bukovac'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Pizzeria Stross'}
+{'phone_number': set([u'01 4616 649']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'MS Grill'}
+{'phone_number': set([u'01 5560 107']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Kebab Maksimir'}
+{'phone_number': set([u'01 5620 335']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Kung Food'}
+{'phone_number': set([u'385 91 461']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Grill Bistro Tomislav'}
+{'phone_number': set([u'099 409 3434']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Pizzeria Astro'}
+{'phone_number': set([u'01 3456 555']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Zagy Pizza & Sandwich Bar'}
+{'phone_number': set([u'01 3025 888']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Mrak Grill'}
+{'phone_number': set([u'01 4618 052']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Fast Food Filip'}
+{'phone_number': set([u'01 2917 704']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Pizzeria San Marco'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Family Catering'}
+{'phone_number': set([u'099 407 3274', u'01 2323 377', u'099 576 0334']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Libertas'}
+{'phone_number': set([u'01 5619 990']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Zlatna Bula'}
+{'phone_number': set([u'01 4837 787']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Bistro Kaptol'}
+{'phone_number': set([u'01 2352 775']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Gableci i to'}
+{'phone_number': set([u'097 777 95', u'097 777 9567']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Vo\xc4\x87arna Mali vrt'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'GTi'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Vo\xc4\x87arna Ceker'}
+{'phone_number': set([u'091 762 5821']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Brko i Brko'}
+{'phone_number': set([u'2352 775 095', u'01 2352 775']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Gableci i to 2'}
+{'phone_number': set([u'040 365 177', u'1 55 89', u'01 5589 773']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Pyrus'}
+{'phone_number': set([u'01 6182 535', u'61 82 535']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Cydonia'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([u'091 574 0865']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Food Harmony'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': 'Dalmistra'}
+{'phone_number': set([u'01 4846 922', u'01 4586 089']), 'city': 'zagreb', 'area': 'mihaljevac', 'restoran_name': "Franky's Pizza Bar"}
+{'phone_number': set([u'01 3704 787']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Pizzeria Zagabria'}
+{'phone_number': set([u'534 222 666']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Pizzeria Enigma'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Sombrero - Meksikanac'}
+{'phone_number': set([u'01 2922 414']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Pizzeria Amfora'}
+{'phone_number': set([u'385 1 5584', u'01 5584 039']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': '\xc5\xa0pajza'}
+{'phone_number': set([u'01 3456 555']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Zagi Pizzeria & Grill'}
+{'phone_number': set([u'01 3816 753']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Pizzeria El Mundo'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Famoso Food'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Pizzeria Stross'}
+{'phone_number': set([u'01 3025 888']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Mrak Grill'}
+{'phone_number': set([u'01 4840 619', u'047 421 136']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Pet Plus'}
+{'phone_number': set([u'01 5516 264']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Purger King'}
+{'phone_number': set([u'01 3730 373']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Pizzeria S.O.S.'}
+{'phone_number': set([u'01 3095 555']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Pizzeria Zlatna kuna'}
+{'phone_number': set([u'01 6387 802', u'385 1 6387']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Bon Appetit Catering'}
+{'phone_number': set([u'01 3890 723']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Marinero Grill Pre\xc4\x8dko'}
+{'phone_number': set([u'098 777 577']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Vege fino za sve'}
+{'phone_number': set([u'091 574 0865']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Food Harmony'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Dalmistra'}
+{'phone_number': set([u'040 365 177', u'1 55 89', u'01 5589 773']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Pyrus'}
+{'phone_number': set([u'385 22 213', u'022 213 701']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Restoran Pelegrin'}
+{'phone_number': set([u'097 777 95', u'097 777 9567']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Vo\xc4\x87arna Mali vrt'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Simple Green'}
+{'phone_number': set([u'63 10 000', u'01 6646 339']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Catering Rajnglica'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Bistro Tanjur\xc4\x8dek'}
+{'phone_number': set([u'2352 775 095', u'01 2352 775']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Gableci i to 2'}
+{'phone_number': set([u'01 3079 440']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Grizli Catering'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([u'01 3090 991', u'385 1 3090']), 'city': 'zagreb', 'area': 'malesnica', 'restoran_name': 'Selski Kutak'}
+{'phone_number': set([u'091 574 0865']), 'city': 'zagreb', 'area': 'brezovica', 'restoran_name': 'Food Harmony'}
+{'phone_number': set([u'095 359 8268']), 'city': 'zagreb', 'area': 'brezovica', 'restoran_name': 'Krpice sa zeljem'}
+{'phone_number': set([u'097 777 95', u'097 777 9567']), 'city': 'zagreb', 'area': 'brezovica', 'restoran_name': 'Vo\xc4\x87arna Mali vrt'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'vrbik', 'restoran_name': 'Catering Milenium'}
+{'phone_number': set([u'01 5560 979']), 'city': 'zagreb', 'area': 'vrbik', 'restoran_name': 'Pizza-Boo'}
+{'phone_number': set([u'01 6111 309']), 'city': 'zagreb', 'area': 'vrbik', 'restoran_name': 'Catering An\xc4\x91eo'}
+{'phone_number': set([u'01 5619 990']), 'city': 'zagreb', 'area': 'vrbik', 'restoran_name': 'Zlatna Bula'}
+{'phone_number': set([u'01 8890 719', u'88 90 719']), 'city': 'zagreb', 'area': 'vrbik', 'restoran_name': 'Pizzeria Poma'}
+{'phone_number': set([u'01 6387 802', u'385 1 6387']), 'city': 'zagreb', 'area': 'vrbik', 'restoran_name': 'Bon Appetit Catering'}
+{'phone_number': set([u'385 1 5584', u'01 5584 039']), 'city': 'zagreb', 'area': 'vrbik', 'restoran_name': '\xc5\xa0pajza'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'vrbik', 'restoran_name': 'Kum'}
+{'phone_number': set([]), 'city': 'zagreb', 'area': 'vrbik', 'restoran_name': 'Sombrero - Meksikanac'}
+{'phone_number': set([u'01 2408 111']), 'city': 'zagreb', 'area': 'vrbik', 'restoran_name': 'Restoran Kuhinja'}
+{'phone_number': set([u'01 5620 335']), 'city': 'zagreb', 'area': 'vrbik', 'restoran_name': 'Kung Food'}
+{'phone_number': set([u'01 5516 264']), 'city': 'zagreb', 'area': 'vrbik', 'restoran_name': 'Purger King'}
+{'phone_number': set([u'01 6170 864']), 'city': 'zagreb', 'area': 'vrbik', 'restoran_name': 'Pizzeria Strossmayer'}
