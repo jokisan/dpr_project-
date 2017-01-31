@@ -1,9 +1,16 @@
 import scrapy
 from scrapy.selector import Selector
-#from items import PauzaItem
 import re
 from time import sleep
 from selenium import webdriver
+
+
+class PauzaItem(scrapy.Item):
+    city = scrapy.Field()
+    area = scrapy.Field()
+    restoran_name = scrapy.Field()
+    phone_number = scrapy.Field()
+
 
 class PauzaSpider(scrapy.Spider):
 
@@ -41,7 +48,7 @@ class PauzaSpider(scrapy.Spider):
         area = area.split('-')[-1]
         self.area_restorant_mapper[area] = set(restoran_names)
 
-        item = {}
+        item = PauzaItem()
         cache = {}
 
         for restoran_name in restoran_names:
@@ -57,10 +64,9 @@ class PauzaSpider(scrapy.Spider):
                 if area_url in area_urls:
                     item['city'] = city
 
-            print item
+            yield item
 
     def get_phone_number(self, restoran_name):
-        # driver = webdriver.Chrome('/usr/bin/chromedriver')
         url = 'http://www.google.com/search?q=' + restoran_name
         self.driver.get(url)
         sleep(5)
